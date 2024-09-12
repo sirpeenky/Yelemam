@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ##
 
-<!--
 **Yelemam/Yelemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 👋 Hi, I’m Yara El-Emam! I’m passionate about data analysis and development, with a focus on expanding my skillset in ETL processes, NoSQL, and machine learning. I'm currently working toward my certification, which I expect to receive in December 2024.
